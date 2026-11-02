@@ -1,4 +1,7 @@
 # Relatório Executivo e Análise de Dados - E-commerce Olist
+Apresentação Executiva (Dashboard):[https://datastudio.google.com/reporting/42e9de8b-83f0-4076-b11f-02aae66d95b7]
+Link da apresentação em vídeo: [https://drive.google.com/file/d/1N227D4hVRCqbHa0UnhQsWXp6j3B2NRFV/view?usp=sharing]
+
 **Projeto do Tech Challenge - Fase 1 | Pós Tech Data Analytics**
 
 ## 1. Contexto do Problema
